@@ -14,7 +14,9 @@ export default function about() {
       <g>장르 : 추리</g>
       <g>발매일 : 2006년 08월 10일</g>
       <p/>
-      <a href="http://www.yes24.com/Product/Goods/2131596"
+      <a
+      rel="noopener noreferrer"
+      href="http://www.yes24.com/Product/Goods/2131596"
       target='_blank'>
         <button onlick="move"><h4>Yes24 페이지로 이동</h4></button></a>
       <p/><p/>
@@ -24,7 +26,9 @@ export default function about() {
       <g>장르 : 추리, 스릴러</g>
       <g>발매일 : 2014년 09월 26일</g>
       <p/>
-      <a href="http://www.yes24.com/Product/Goods/2131596"
+      <a
+      rel="noopener noreferrer"
+      href="http://www.yes24.com/Product/Goods/2131596"
       target='_blank'>
         <button onlick="move"><h4>Yes24 페이지로 이동</h4></button></a>
       <p/><p/>
@@ -34,7 +38,9 @@ export default function about() {
       <g>장르 : 추리, 스릴러</g>
       <g>발매일 : 2007년 07월 25일</g>
       <p/>
-      <a href="http://www.yes24.com/Product/Goods/2131596"
+      <a
+      rel="noopener noreferrer"
+      href="http://www.yes24.com/Product/Goods/2131596"
       target='_blank'>
         <button onlick="move"><h4>Yes24 페이지로 이동</h4></button></a>
       <p/><p/>
@@ -44,7 +50,9 @@ export default function about() {
       <g>장르 : 추리, 미스터리</g>
       <g>발매일 : 2020년 11월 30일</g>
       <p/>
-      <a href="http://www.yes24.com/Product/Goods/2131596"
+      <a
+      rel="noopener noreferrer"
+      href="http://www.yes24.com/Product/Goods/2131596"
       target='_blank'>
         <button onlick="move"><h4>Yes24 페이지로 이동</h4></button></a>
       <p/><p/>
@@ -54,7 +62,9 @@ export default function about() {
       <g>장르 : 추리, 미스터리</g>
       <g>발매일 : 2013년 01월 16일</g>
       <p/>
-      <a href="http://www.yes24.com/Product/Goods/2131596"
+      <a
+      rel="noopener noreferrer"
+      href="http://www.yes24.com/Product/Goods/2131596"
       target='_blank'>
         <button onlick="move"><h4>Yes24 페이지로 이동</h4></button></a>
       </div>
